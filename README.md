@@ -11,3 +11,6 @@ pip install -r requirements.txt
 OAuth2 with Password
 Pasword Hashing 
 Bearer with JWT tokens
+
+#Run
+uvicorn main:app
